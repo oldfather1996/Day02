@@ -1,0 +1,20 @@
+body {
+    padding-top: 56px;
+    width: 100%;
+    height: auto;
+
+}.jumbotron {
+    background: url("image.jpg") no-repeat center;
+}
+.btn-primary {
+    background-color: #c60063;
+    border-color: #c60063;
+}
+.btn-secondary {
+    background-color: transparent;
+    border-color: #c60063;
+    color: #c60063;
+}
+/* #contact {
+    background: url("../images/image.png") no-repeat center;
+} */
